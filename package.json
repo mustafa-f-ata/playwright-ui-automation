@@ -1,0 +1,22 @@
+{
+  "name": "playwright-ui-automation",
+  "version": "1.0.0",
+  "description": "UI Test Automation framework built with Playwright and JavaScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa-f-ata/playwright-ui-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa-f-ata/playwright-ui-automation/issues"
+  },
+  "homepage": "https://github.com/mustafa-f-ata/playwright-ui-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
